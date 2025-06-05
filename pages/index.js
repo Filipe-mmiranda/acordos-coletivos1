@@ -1,0 +1,1 @@
+// Código React Next.js com menu lateral, busca, exportação e cláusulas

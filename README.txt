@@ -1,0 +1,1 @@
+Instruções completas de uso e publicação do site dos Acordos Coletivos.
