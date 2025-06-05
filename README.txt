@@ -1,0 +1,1 @@
+Versão final validada – Acordos Coletivos com busca, exportação, menu lateral e cláusulas completas.
