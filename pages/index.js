@@ -1,0 +1,1 @@
+// Código completo: cláusulas reais, busca com sugestões, exportação, menu lateral e botão voltar ao topo.

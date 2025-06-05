@@ -1,0 +1,1 @@
+Versão final com cláusulas completas, busca, exportação, menu lateral e botão de voltar ao topo.
